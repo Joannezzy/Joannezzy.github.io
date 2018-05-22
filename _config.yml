@@ -6,8 +6,8 @@
 # Site
 title: vSpace
 subtitle:
-description: Student in Sun Yat-sen University, China. Major in computer science.
-author: Benson Yan
+description: Student in Sun Yat-sen University, China. Major in foreign language.
+author: Joanne
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -216,7 +216,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/YanB25
+    GitHub: https://github.com/Joannezzy
     School: http://www.sysu.edu.cn/2012/en/index.htm
 
 

@@ -1,6 +1,7 @@
 ---
 title: Hello Blog
 categories: other
+tag: diary
 date: '2018-5-22 23:58:00 +0800'
 published: true
 ---
